@@ -1,0 +1,27 @@
+body{
+    background-size:cover;
+}
+
+.span1 , .span2{
+    color:black;
+    font-size: 15px;
+
+}
+
+.heading{
+    font-size:25px;
+    width: 100%;
+    margin:1px;
+}
+
+#song_title{
+    font-size: 20px;
+}
+
+canvas{
+    background-color: whitesmoke;
+    border: 5px solid blue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 100px;
+}
